@@ -2,6 +2,9 @@
 
 ### Simple Payment report 
 
+
+Only for Direct Bank Transfer, or Bank Account Clearing System (BACS) (Available only for Venezuela)
+
 * Contributors: abr4xas
 * Donate link: https://www.paypal.me/abr4xas
 * Tags: ecommerce, e-commerce, store, sales, sell, shop, cart, checkout, venezuela, instapago, banesco, report * payment
@@ -10,10 +13,6 @@
 * Stable tag: 1.0.0
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
-
-### Description 
-
-Only for Direct Bank Transfer, or Bank Account Clearing System (BACS) (Available only for Venezuela)
 
 ### Installation 
 
@@ -33,12 +32,6 @@ in this template `yourtheme/woocommerce/myaccount/view-order.php`.
 
 * WordPress
 * WooCommerce
-
-### Screenshots 
-
-1. Main View.
-2. Responsive View.
-3. Settings.
 
 ### Changelog 
 
