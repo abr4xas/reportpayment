@@ -2,8 +2,9 @@
 
 ### Simple Payment report 
 
-
 Only for Direct Bank Transfer, or Bank Account Clearing System (BACS) (Available only for Venezuela)
+
+---
 
 * Contributors: abr4xas
 * Donate link: https://www.paypal.me/abr4xas
