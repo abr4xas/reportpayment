@@ -37,3 +37,8 @@ in this template `yourtheme/woocommerce/myaccount/view-order.php`.
 ### Changelog 
 
 * First release
+
+
+### Preview
+
+<img src="https://image.ibb.co/fVXLRU/screencapture_localhost_my_account_view_order_9317_2018_08_09_21_46_15.png" alt="Simple Payment report Only for Direct Bank Transfer, or Bank Account Clearing System (BACS) (Available only for Venezuela)" border="0">
