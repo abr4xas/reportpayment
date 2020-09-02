@@ -1,6 +1,5 @@
-<img align="left" width="130" src="https://blog.abr4xas.org/icons/apple-icon-180x180.png">
-
-### Simple Payment report 
+#### Simple Payment report 
+---
 
 Only for Direct Bank Transfer, or Bank Account Clearing System (BACS) (Available only for Venezuela)
 
@@ -15,8 +14,8 @@ Only for Direct Bank Transfer, or Bank Account Clearing System (BACS) (Available
 * License: GPLv3
 * License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-### Installation 
-
+#### Installation 
+---
 Upload the plugin files to the `/wp-content/plugins/reportpayment` directory, or install the plugin through the WordPress plugins screen directly.
 
 Add this: 
@@ -27,18 +26,23 @@ Add this:
 in this template `yourtheme/woocommerce/myaccount/view-order.php`.
 
 
-### Frequently Asked Questions 
+#### Frequently Asked Questions 
+---
+//
 
-### Requirements
+#### Requirements
+---
 
 * WordPress
 * WooCommerce
 
-### Changelog 
+#### Changelog 
+---
 
 * First release
 
 
-### Preview
+#### Preview
+---
 
 <img src="https://image.ibb.co/fVXLRU/screencapture_localhost_my_account_view_order_9317_2018_08_09_21_46_15.png" alt="Simple Payment report Only for Direct Bank Transfer, or Bank Account Clearing System (BACS) (Available only for Venezuela)" border="0">
